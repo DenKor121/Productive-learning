@@ -1,2 +1,1 @@
-
-console.log("Video player loaded");
+console.log("Video player loaded successfully");
